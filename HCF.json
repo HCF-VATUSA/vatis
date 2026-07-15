@@ -2,7 +2,7 @@
   "name": "Honolulu Control Facility (HCF)",
   "id": "e8043679-e0f8-46c8-a703-3f9c6a4cbcea",
   "updateUrl": "https://hcf-vatusa.github.io/vatis/HCF.json",
-  "updateSerial": 2026050501,
+  "updateSerial": 2026071401,
   "stations": [
     {
       "id": "38408947-e4a2-46ff-8959-4b3b51f354e5",
@@ -7911,7 +7911,7 @@
           }
         },
         {
-          "id": "7af36503-002e-4b6f-ab32-db950ccdd8ac",
+          "id": "7af36503-002e-4b6f-ab32-db950ccdd8ed",
           "ordinal": 1,
           "name": "WEST",
           "airportConditions": "DEP RWYS 21, 26, LDG RWY 26. EXPECT ILS, RNAV, OR VIS APP.",
